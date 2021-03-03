@@ -6,3 +6,5 @@
 <p id="4c6e">Therefore, when in need to perform testing on different browsers, versions, and operating systems, the good news is that the solution is already out there.</p>
 
 ![image](https://user-images.githubusercontent.com/9497415/109855085-c5ef7f80-7c4f-11eb-8d56-ddd781a60309.png)
+
+The complete post is on [PureSourceCode](https://www.puresourcecode.com/dotnet/uitest-with-c-and-selenium-grid/).
